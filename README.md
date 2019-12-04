@@ -1,2 +1,2 @@
-# bad-app-clone
-Begin app
+# bad-app
+test app for begin import validation
